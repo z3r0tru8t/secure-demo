@@ -1,6 +1,6 @@
 {
-    "sonarlint.connectedMode.project": {
-        "connectionId": "z3r0tru8t",
-        "projectKey": "z3r0tru8t_centaurspay"
-    }
+  "sonarlint.connectedMode.project": {
+    "connectionId": "z3r0tru8t",
+    "projectKey": "z3r0tru8t_secure-demo"
+  }
 }
