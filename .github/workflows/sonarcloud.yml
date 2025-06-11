@@ -25,6 +25,6 @@ jobs:
 
       - name: Analyze with SonarCloud
         run: |
-          dotnet sonarscanner begin /k:"z3r0tru8t_secure-demo" /o:"z3r0tru8t" /d:sonar.token="$secrets.SONAR_TOKEN"
+          dotnet sonarscanner begin /k:"z3r0tru8t_secure-demo" /o:"z3r0tru8t" /d:sonar.token="$SONAR_TOKEN"
           dotnet build
           dotnet sonarscanner end /d:sonar.token="$SONAR_TOKEN"
