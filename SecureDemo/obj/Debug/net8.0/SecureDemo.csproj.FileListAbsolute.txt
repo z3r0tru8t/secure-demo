@@ -1,0 +1,15 @@
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/bin/Debug/net8.0/SecureDemo
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/bin/Debug/net8.0/SecureDemo.deps.json
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/bin/Debug/net8.0/SecureDemo.runtimeconfig.json
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/bin/Debug/net8.0/SecureDemo.dll
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/bin/Debug/net8.0/SecureDemo.pdb
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/SecureDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/SecureDemo.AssemblyInfoInputs.cache
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/SecureDemo.AssemblyInfo.cs
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/SecureDemo.csproj.CoreCompileInputs.cache
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/SecureDemo.sourcelink.json
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/SecureDemo.dll
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/refint/SecureDemo.dll
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/SecureDemo.pdb
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/SecureDemo.genruntimeconfig.cache
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/ref/SecureDemo.dll

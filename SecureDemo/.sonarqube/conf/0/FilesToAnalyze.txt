@@ -1,0 +1,3 @@
+﻿/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/MostFaced.cs
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/Program.cs
+/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/obj/Debug/net8.0/apphost

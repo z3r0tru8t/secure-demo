@@ -1,0 +1,1 @@
+YRC/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/SecureDemo.csproj¢net8.0òCSharp12

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LWjkzzOVyjU=",
+  "dgSpecHash": "nkXXWsaSyqE=",
   "success": true,
   "projectFilePath": "/Users/bairam.mamedov/Documents/MyRepo/SecureDemo/SecureDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/bairam.mamedov/.nuget/packages/microsoft.netcore.app.ref/8.0.17/microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/bairam.mamedov/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.17/microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/bairam.mamedov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.17/microsoft.netcore.app.host.osx-arm64.8.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,7 @@
+organization=z3r0tru8t
+projectKey=z3r0tru8t_secure-demo
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.64367
+dashboardUrl=https://sonarcloud.io/dashboard?id=z3r0tru8t_secure-demo
+ceTaskId=AZdeGbBsfjBcjhLVsn3w
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZdeGbBsfjBcjhLVsn3w
